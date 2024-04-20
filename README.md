@@ -1,5 +1,15 @@
-### Hello Everyone 👋
-## please enjoy my github profile 🌱
+# Hello Everyone 👋
+About me:
+<li>I am a computer science and computational neuroscience student 🧠. </li>
+<li>Currently I have two projects available on my profile, a game of bricker and a game of boogle. </li>
+
+## Skills: 
+🐍 Python<br/>
+🧮 C/Cpp<br/>
+🏛️ Java<br/>
+🏗️ OOP<br/>
+
+### please enjoy my github profile 🌱
 
 <!--
 **morco97/morco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
