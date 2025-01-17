@@ -28,8 +28,8 @@ and programmer with a passion for solving problems, building useful tools, and e
 ---
 
 ## Let’s Connect
-- **GitHub**: [github.com/morco97](https://github.com/morco97)
-- **LinkedIn**: [linkedin.com/in/mor-cohen97](https://linkedin.com/in/mor-cohen97)
+- **GitHub**: [**github**](https://github.com/morco97)
+- **LinkedIn**: [**linkedin**](https://linkedin.com/in/mor-cohen97)
 
 ---
 
