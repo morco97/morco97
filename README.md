@@ -23,7 +23,7 @@ and programmer with a passion for solving problems, building useful tools, and e
 
 ## What I’m Working On
 - **fMRI**: Working on a research asking about memory, using fMRI.
-- working in [aby memory lab](https://www.abymemlab.com/)
+- working in [ABY memory lab](https://www.abymemlab.com/)
 
 ---
 
