@@ -1,18 +1,3 @@
-# Hello Everyone 👋
-About me:
-<li>I am a computer science and computational neuroscience student 🧠. </li>
-<li>Currently I have two projects available on my profile, a game of bricker and a game of boogle. </li>
-
-## Skills: 
-🐍 Python<br/>
-🧮 C/Cpp<br/>
-🏛️ Java<br/>
-🏗️ OOP<br/>
-
-### please enjoy my github profile 🌱
-
-
-
 # Hey there! 👋 I'm Mor Cohen
 
 Welcome to my GitHub profile. <br/>
@@ -43,7 +28,7 @@ and programmer with a passion for solving problems, building useful tools, and e
 
 ## Let’s Connect
 - **GitHub**: [github.com/morco97](https://github.com/morco97)
-- **LinkedIn**: [linkedin.com/in/mor-cohen97](https://linkedin.com/in/mor-cohen97
+- **LinkedIn**: [linkedin.com/in/mor-cohen97](https://linkedin.com/in/mor-cohen97)
 
 ---
 
