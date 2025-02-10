@@ -8,7 +8,7 @@ and programmer with a passion for solving problems, building useful tools, and e
 
 ## About Me
 - 🎓 Currently studying **computer science** and honing my skills in **software development**.
-- 🤖 Interested in **AI applications**, building usefull tools, especially for e-commerce and automation.
+- 🤖 Interested in **AI applications** and building usefull tools.
 - 🎸 When I’m not coding, I’m traveling or playing the guitar.
 
 ---
