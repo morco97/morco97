@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile. <br/>
 I’m a computer science and computational neuroscience student 🧠<br/>
-and programmer with a passion for solving problems, building useful tools, and exploring the intersection of creativity and technology.
+and programmer with a passion for solving problems, building useful 
+tools, and exploring the intersection of creativity and technology.
 
 ---
 
